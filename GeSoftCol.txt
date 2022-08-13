@@ -1,9 +1,9 @@
-Cordial Saludo:
+Cordial Saludo.
 
-GeSoftCol:
+GeSoftCol - Integrantes:
 
-Ana Karina
-Carlos Mario
-Iván
-Marbin
-Óscar
+Ana Karina Hernández Ternera
+Carlos Mario Madrigal Arboleda
+Iván Chávez Figueroa
+Marbin Seca Gómez
+Óscar Ávila Rodríguez
